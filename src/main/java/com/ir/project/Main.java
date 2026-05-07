@@ -46,6 +46,36 @@ public class Main {
             System.out.println("Saving index visualizations to the 'output' folder...");
             savePositionalIndex("output/positional_index.txt", posIndexer.getIndex());
             saveKGramIndex("output/trigram_index.txt", trigramIndexer.getIndex());
+//            System.out.println("\nStarting Query Processing Tests...");
+//            QueryProcessor qp =
+//                    new QueryProcessor(
+//                            posIndexer.getIndex(),
+//                            enProc,
+//                            arProc
+//                    );
+//            Scanner scanner = new Scanner(System.in);
+//            System.out.println("\n--- IR System Ready! ---");
+//            System.out.println("Enter query (or 'exit' to quit):");
+//
+//            while (true) {
+//                System.out.print("Search> ");
+//                String input = scanner.nextLine();
+//                if (input.equalsIgnoreCase("exit")) break;
+//
+//                long startTime = System.nanoTime();
+//                List<String> results = qp.processQuery(input);
+//                long endTime = System.nanoTime();
+//
+//                System.out.println("Results found in (" + (endTime - startTime) / 1_000_000.0 + " ms):");
+//                if (results.isEmpty()) {
+//                    System.out.println("  [!] No documents matched your query.");
+//                } else {
+//                    results.forEach(doc -> System.out.println("  • " + doc));
+//                }
+//                System.out.println();
+//            }
+//            scanner.close();
+//            System.out.println("-----------------------------------");
             System.out.println("Done! Open positional_index.txt and trigram_index.txt to view your work.");
 
         } catch (Exception e) {
