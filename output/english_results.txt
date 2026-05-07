@@ -1,0 +1,3 @@
+File: english.txt
+Terms: [information, retrieval, process, obtain, information, system, resourc, relevant, information, ne, collection, those, resourc, search, can, bas, fulltext, or, other, contentbas, indexinginformation, retrieval, science, search, information, docu, search, document, themselv, also, search, metadata, describ, data, databas, text, imag, or, sound, automat, information, retrieval, system, us, reduce, what, been, call, information, overloada, search, engine, most, practical, application, information, retrieval, techniqu, system, comput, numeric, score, how, well, each, object, database, match, query, rank, object, accord, thi, value]
+-----------------------------------

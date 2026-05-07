@@ -1,0 +1,336 @@
+Term: 'accord'
+  -> Doc: english.txt | Positions: [71]
+-----------------------------------
+Term: 'also'
+  -> Doc: english.txt | Positions: [29]
+-----------------------------------
+Term: 'application'
+  -> Doc: english.txt | Positions: [54]
+-----------------------------------
+Term: 'automat'
+  -> Doc: english.txt | Positions: [39]
+-----------------------------------
+Term: 'bas'
+  -> Doc: english.txt | Positions: [15]
+-----------------------------------
+Term: 'been'
+  -> Doc: english.txt | Positions: [46]
+-----------------------------------
+Term: 'call'
+  -> Doc: english.txt | Positions: [47]
+-----------------------------------
+Term: 'can'
+  -> Doc: english.txt | Positions: [14]
+-----------------------------------
+Term: 'collection'
+  -> Doc: english.txt | Positions: [10]
+-----------------------------------
+Term: 'comput'
+  -> Doc: english.txt | Positions: [59]
+-----------------------------------
+Term: 'contentbas'
+  -> Doc: english.txt | Positions: [19]
+-----------------------------------
+Term: 'data'
+  -> Doc: english.txt | Positions: [33]
+-----------------------------------
+Term: 'databas'
+  -> Doc: english.txt | Positions: [34]
+-----------------------------------
+Term: 'database'
+  -> Doc: english.txt | Positions: [66]
+-----------------------------------
+Term: 'describ'
+  -> Doc: english.txt | Positions: [32]
+-----------------------------------
+Term: 'docu'
+  -> Doc: english.txt | Positions: [25]
+-----------------------------------
+Term: 'document'
+  -> Doc: english.txt | Positions: [27]
+-----------------------------------
+Term: 'each'
+  -> Doc: english.txt | Positions: [64]
+-----------------------------------
+Term: 'engine'
+  -> Doc: english.txt | Positions: [51]
+-----------------------------------
+Term: 'fulltext'
+  -> Doc: english.txt | Positions: [16]
+-----------------------------------
+Term: 'how'
+  -> Doc: english.txt | Positions: [62]
+-----------------------------------
+Term: 'imag'
+  -> Doc: english.txt | Positions: [36]
+-----------------------------------
+Term: 'indexinginformation'
+  -> Doc: english.txt | Positions: [20]
+-----------------------------------
+Term: 'information'
+  -> Doc: english.txt | Positions: [0, 4, 8, 24, 40, 48, 55]
+-----------------------------------
+Term: 'match'
+  -> Doc: english.txt | Positions: [67]
+-----------------------------------
+Term: 'metadata'
+  -> Doc: english.txt | Positions: [31]
+-----------------------------------
+Term: 'most'
+  -> Doc: english.txt | Positions: [52]
+-----------------------------------
+Term: 'ne'
+  -> Doc: english.txt | Positions: [9]
+-----------------------------------
+Term: 'numeric'
+  -> Doc: english.txt | Positions: [60]
+-----------------------------------
+Term: 'object'
+  -> Doc: english.txt | Positions: [65, 70]
+-----------------------------------
+Term: 'obtain'
+  -> Doc: english.txt | Positions: [3]
+-----------------------------------
+Term: 'or'
+  -> Doc: english.txt | Positions: [17, 37]
+-----------------------------------
+Term: 'other'
+  -> Doc: english.txt | Positions: [18]
+-----------------------------------
+Term: 'overloada'
+  -> Doc: english.txt | Positions: [49]
+-----------------------------------
+Term: 'practical'
+  -> Doc: english.txt | Positions: [53]
+-----------------------------------
+Term: 'process'
+  -> Doc: english.txt | Positions: [2]
+-----------------------------------
+Term: 'query'
+  -> Doc: english.txt | Positions: [68]
+-----------------------------------
+Term: 'rank'
+  -> Doc: english.txt | Positions: [69]
+-----------------------------------
+Term: 'reduce'
+  -> Doc: english.txt | Positions: [44]
+-----------------------------------
+Term: 'relevant'
+  -> Doc: english.txt | Positions: [7]
+-----------------------------------
+Term: 'resourc'
+  -> Doc: english.txt | Positions: [6, 12]
+-----------------------------------
+Term: 'retrieval'
+  -> Doc: english.txt | Positions: [1, 21, 41, 56]
+-----------------------------------
+Term: 'science'
+  -> Doc: english.txt | Positions: [22]
+-----------------------------------
+Term: 'score'
+  -> Doc: english.txt | Positions: [61]
+-----------------------------------
+Term: 'search'
+  -> Doc: english.txt | Positions: [13, 23, 26, 30, 50]
+-----------------------------------
+Term: 'sound'
+  -> Doc: english.txt | Positions: [38]
+-----------------------------------
+Term: 'system'
+  -> Doc: english.txt | Positions: [5, 42, 58]
+-----------------------------------
+Term: 'techniqu'
+  -> Doc: english.txt | Positions: [57]
+-----------------------------------
+Term: 'text'
+  -> Doc: english.txt | Positions: [35]
+-----------------------------------
+Term: 'themselv'
+  -> Doc: english.txt | Positions: [28]
+-----------------------------------
+Term: 'thi'
+  -> Doc: english.txt | Positions: [72]
+-----------------------------------
+Term: 'those'
+  -> Doc: english.txt | Positions: [11]
+-----------------------------------
+Term: 'us'
+  -> Doc: english.txt | Positions: [43]
+-----------------------------------
+Term: 'value'
+  -> Doc: english.txt | Positions: [73]
+-----------------------------------
+Term: 'well'
+  -> Doc: english.txt | Positions: [63]
+-----------------------------------
+Term: 'what'
+  -> Doc: english.txt | Positions: [45]
+-----------------------------------
+Term: 'استرجاع'
+  -> Doc: arab.txt | Positions: [0, 25, 36, 65]
+-----------------------------------
+Term: 'استعلام'
+  -> Doc: arab.txt | Positions: [42]
+-----------------------------------
+Term: 'اشهر'
+  -> Doc: arab.txt | Positions: [63]
+-----------------------------------
+Term: 'اصو'
+  -> Doc: arab.txt | Positions: [22]
+-----------------------------------
+Term: 'البحث'
+  -> Doc: arab.txt | Positions: [6]
+-----------------------------------
+Term: 'الي'
+  -> Doc: arab.txt | Positions: [27, 59, 71]
+-----------------------------------
+Term: 'انترن'
+  -> Doc: arab.txt | Positions: [58]
+-----------------------------------
+Term: 'انظم'
+  -> Doc: arab.txt | Positions: [24]
+-----------------------------------
+Term: 'او'
+  -> Doc: arab.txt | Positions: [19, 21]
+-----------------------------------
+Term: 'ايضا'
+  -> Doc: arab.txt | Positions: [9]
+-----------------------------------
+Term: 'بحث'
+  -> Doc: arab.txt | Positions: [3, 10, 55]
+-----------------------------------
+Term: 'بيان'
+  -> Doc: arab.txt | Positions: [11, 14]
+-----------------------------------
+Term: 'ترتيب'
+  -> Doc: arab.txt | Positions: [47]
+-----------------------------------
+Term: 'تستخدم'
+  -> Doc: arab.txt | Positions: [23]
+-----------------------------------
+Term: 'تصف'
+  -> Doc: arab.txt | Positions: [13]
+-----------------------------------
+Term: 'تطابق'
+  -> Doc: arab.txt | Positions: [40, 52]
+-----------------------------------
+Term: 'تطبيق'
+  -> Doc: arab.txt | Positions: [64]
+-----------------------------------
+Term: 'تعتبر'
+  -> Doc: arab.txt | Positions: [53]
+-----------------------------------
+Term: 'تقوم'
+  -> Doc: arab.txt | Positions: [45]
+-----------------------------------
+Term: 'تقييم'
+  -> Doc: arab.txt | Positions: [38]
+-----------------------------------
+Term: 'جانب'
+  -> Doc: arab.txt | Positions: [60]
+-----------------------------------
+Term: 'حد'
+  -> Doc: arab.txt | Positions: [28]
+-----------------------------------
+Term: 'حمل'
+  -> Doc: arab.txt | Positions: [31]
+-----------------------------------
+Term: 'حياتن'
+  -> Doc: arab.txt | Positions: [68]
+-----------------------------------
+Term: 'خوارزمي'
+  -> Doc: arab.txt | Positions: [46]
+-----------------------------------
+Term: 'درج'
+  -> Doc: arab.txt | Positions: [51]
+-----------------------------------
+Term: 'رقمي'
+  -> Doc: arab.txt | Positions: [62]
+-----------------------------------
+Term: 'زائد'
+  -> Doc: arab.txt | Positions: [33]
+-----------------------------------
+Term: 'شبك'
+  -> Doc: arab.txt | Positions: [57]
+-----------------------------------
+Term: 'صور'
+  -> Doc: arab.txt | Positions: [20]
+-----------------------------------
+Term: 'علم'
+  -> Doc: arab.txt | Positions: [2]
+-----------------------------------
+Term: 'علي'
+  -> Doc: arab.txt | Positions: [50, 56]
+-----------------------------------
+Term: 'قواعد'
+  -> Doc: arab.txt | Positions: [16]
+-----------------------------------
+Term: 'كل'
+  -> Doc: arab.txt | Positions: [41]
+-----------------------------------
+Term: 'محرك'
+  -> Doc: arab.txt | Positions: [54]
+-----------------------------------
+Term: 'مدي'
+  -> Doc: arab.txt | Positions: [39]
+-----------------------------------
+Term: 'مستند'
+  -> Doc: arab.txt | Positions: [43, 48]
+-----------------------------------
+Term: 'معرف'
+  -> Doc: arab.txt | Positions: [72]
+-----------------------------------
+Term: 'معلوم'
+  -> Doc: arab.txt | Positions: [1, 4, 26, 37, 66]
+-----------------------------------
+Term: 'معلومات'
+  -> Doc: arab.txt | Positions: [32]
+-----------------------------------
+Term: 'مكتب'
+  -> Doc: arab.txt | Positions: [61]
+-----------------------------------
+Term: 'مما'
+  -> Doc: arab.txt | Positions: [29]
+-----------------------------------
+Term: 'موجود'
+  -> Doc: arab.txt | Positions: [44]
+-----------------------------------
+Term: 'ناء'
+  -> Doc: arab.txt | Positions: [49]
+-----------------------------------
+Term: 'نستخدمها'
+  -> Doc: arab.txt | Positions: [67]
+-----------------------------------
+Term: 'نصوص'
+  -> Doc: arab.txt | Positions: [18]
+-----------------------------------
+Term: 'نظام'
+  -> Doc: arab.txt | Positions: [35]
+-----------------------------------
+Term: 'نفسها'
+  -> Doc: arab.txt | Positions: [8]
+-----------------------------------
+Term: 'وثائق'
+  -> Doc: arab.txt | Positions: [5, 7]
+-----------------------------------
+Term: 'وصفي'
+  -> Doc: arab.txt | Positions: [12]
+-----------------------------------
+Term: 'وصول'
+  -> Doc: arab.txt | Positions: [70]
+-----------------------------------
+Term: 'وفي'
+  -> Doc: arab.txt | Positions: [15]
+-----------------------------------
+Term: 'يان'
+  -> Doc: arab.txt | Positions: [17]
+-----------------------------------
+Term: 'يسم'
+  -> Doc: arab.txt | Positions: [30]
+-----------------------------------
+Term: 'يقوم'
+  -> Doc: arab.txt | Positions: [34]
+-----------------------------------
+Term: 'يومي'
+  -> Doc: arab.txt | Positions: [69]
+-----------------------------------

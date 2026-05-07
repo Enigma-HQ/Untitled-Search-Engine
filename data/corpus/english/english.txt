@@ -1,1 +1,5 @@
-The security engineers at Enigma are conducting advanced web application penetration testing. They are searching for vulnerabilities in the system's architecture, including routing protocols and external APIs. Identifying these flaws early is critical for maintaining high availability.
+Information retrieval is the process of obtaining information system resources that are relevant to an information need from a collection of those resources. Searches can be based on full-text or other content-based indexing.
+
+Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata that describes data, and for databases of texts, images or sounds. Automated information retrieval systems are used to reduce what has been called information overload.
+
+A search engine is the most practical application of information retrieval techniques. The system computes a numeric score on how well each object in the database matches the query, and ranks the objects according to this value.
