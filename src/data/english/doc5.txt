@@ -1,0 +1,5 @@
+Computer networks are systems that connect multiple devices to share resources and exchange information. The internet is the largest computer network in the world, connecting billions of devices globally. Networks can be classified by their size and scope: local area networks cover small geographic areas like homes and offices, while wide area networks span large geographic regions.
+
+Network protocols define the rules and standards for communication between network devices. The TCP/IP protocol suite is the foundation of internet communication. HTTP and HTTPS are protocols used for web browsing and secure web communication. DNS is used to translate human-readable domain names into IP addresses that computers use to identify each other.
+
+Wireless networks use radio waves to connect devices without physical cables. WiFi is the most common wireless networking technology used in homes and businesses. Bluetooth is another wireless technology used for short-range communication between devices. Network security is critical to protect data from unauthorized access, and includes techniques like encryption, firewalls, and intrusion detection systems.

@@ -1,0 +1,5 @@
+Database management systems are software applications that interact with end users, other applications, and the database itself to capture and analyze the data. A database management system allows a user to interact with the database. The data stored in the database can be modified, retrieved and deleted and can be of any type like strings, numbers, images, etc.
+
+Relational database management systems use the relational model to manage and query data. SQL is the standard language for relational database management systems. Structured Query Language allows users to create, read, update, and delete data in databases. Primary keys and foreign keys are used to establish relationships between tables in a relational database.
+
+NoSQL databases are an alternative to relational databases. They are designed for large-scale data storage and for massively-parallel, high-performance data processing across a large number of commodity servers. NoSQL databases are often used for big data and real-time web applications. MongoDB, Cassandra, and Redis are popular NoSQL database systems used in modern applications.

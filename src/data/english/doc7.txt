@@ -1,0 +1,5 @@
+Data structures are specialized formats for organizing, processing, retrieving and storing data. Some of the basic data structures include arrays, linked lists, stacks, queues, trees, graphs, and hash tables. The choice of data structure depends on the type of operations that need to be performed and the efficiency requirements of the application.
+
+Algorithms are step-by-step procedures or formulas for solving problems. Sorting algorithms arrange elements in a specific order, such as bubble sort, merge sort, and quicksort. Searching algorithms find specific elements in a collection, such as linear search and binary search. Graph algorithms solve problems related to graph structures, such as shortest path and minimum spanning tree algorithms.
+
+Algorithm complexity is measured in terms of time complexity and space complexity. Big O notation is used to describe the upper bound on the time an algorithm takes to complete as a function of the input size. Efficient algorithms are critical for the performance of large-scale applications. Dynamic programming and divide-and-conquer are common algorithm design techniques used to solve complex computational problems.
